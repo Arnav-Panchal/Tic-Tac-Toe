@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f79c9a38-2857-4049-b9f2-54db0f665c6b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tic Tac Toe.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Byte_stream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Char_stream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exception_throw.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/game/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/game/MyGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,10 +42,9 @@
       <recent name="D:\code\Projects\Java projects here\TicTacToe\Tic Tac Toe\src\img" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Array">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array" />
-      <module name="Tic Tac Toe" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -77,8 +64,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Array" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Array" />
       </list>
     </recent_temporary>
   </component>
